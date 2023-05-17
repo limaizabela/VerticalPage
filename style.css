@@ -1,0 +1,26 @@
+
+
+header p{
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* 
+.carousel-caption{
+    text-shadow: 2px 2px 2px black;
+    font-size: 10px;
+    color: #ffc107;
+} */
+
+h1 {
+    font-size: 63px;
+    color: #d7261e;
+}
+
+h2 {
+    font-size: 54px;
+    color:   #303030;
+    font-weight: 600; /* Vai de 100 a 900, onde 400 é igual a normal e 700 é negrito */
+}
+
+
